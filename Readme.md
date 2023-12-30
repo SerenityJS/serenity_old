@@ -1,13 +1,3 @@
 # SerenityJS
 
-## Installing and Setting Up
-
-Clone or download this repo to your desktop.
-
-Make sure you have NodeJS installed.
-
-run "npm i"
-
-then "npm run build"
-
-finally "npm run start" OR "npm run dev"
+This is a fork of our current repo, this will be a backup while we merge our current repo into a mono repo.
